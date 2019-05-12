@@ -1,0 +1,9 @@
+/vendor
+/nbproject
+/storage
+/storage/oauth-private.key
+/admin/node_modules
+/frontend/node_modules 
+*.log
+
+
